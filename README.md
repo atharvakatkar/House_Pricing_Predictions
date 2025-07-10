@@ -53,3 +53,16 @@ Build a robust regression model capable of predicting house prices based on feat
 Install via:
 ```bash
 pip install -r requirements.txt
+```
+
+### How to Run
+Open the notebook house_price_predictions.ipynb and execute the cells sequentially. Final model comparison and evaluation are at the model
+
+### Future Work
+- Make the model universal using pipelines
+- Model deployment  using Flask/Streamlit
+- Predict on future datasets with different feature distributions
+
+### Author
+Atharva Katkar
+[GitHub]() | [LinkedIn]()
