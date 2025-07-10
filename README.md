@@ -65,4 +65,5 @@ Open the notebook house_price_predictions.ipynb and execute the cells sequential
 
 ### Author
 Atharva Katkar
-[GitHub]() | [LinkedIn]()
+
+[GitHub](https://github.com/atharvakatkar) | [LinkedIn](www.linkedin.com/in/ankatkar)
